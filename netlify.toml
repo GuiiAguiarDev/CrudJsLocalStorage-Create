@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/formulario.html"
+status = 200
